@@ -1,0 +1,37 @@
+{
+  "MLP": {
+    "accuracy": 0.482,
+    "macro_recall": 0.48199999999999993,
+    "macro_f1": 0.47330836101478546,
+    "best_val_acc": 0.482,
+    "trainable_params": 3809034.0
+  },
+  "CNN": {
+    "accuracy": 0.752,
+    "macro_recall": 0.752,
+    "macro_f1": 0.7501597361879069,
+    "best_val_acc": 0.752,
+    "trainable_params": 1180490.0
+  },
+  "TL-3A (FC)": {
+    "accuracy": 0.798,
+    "macro_recall": 0.7979999999999998,
+    "macro_f1": 0.7961445506290603,
+    "best_val_acc": 0.798,
+    "trainable_params": 133898.0
+  },
+  "TL-3B (Late)": {
+    "accuracy": 0.9155,
+    "macro_recall": 0.9155,
+    "macro_f1": 0.9153421135112627,
+    "best_val_acc": 0.9155,
+    "trainable_params": 10627338.0
+  },
+  "TL-3C (Full)": {
+    "accuracy": 0.9295,
+    "macro_recall": 0.9295,
+    "macro_f1": 0.9293900061749296,
+    "best_val_acc": 0.9295,
+    "trainable_params": 11310410.0
+  }
+}
